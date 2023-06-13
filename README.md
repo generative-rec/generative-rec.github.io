@@ -1,39 +1,43 @@
-# irs-wsdm.github.io
+# RGM-CIKM23.github.io
+
+## Workshop Title: The 1st Workshop on Recommendation with Generative Models
+
 
 ## Summary
 
-Recommender systems have been widely applied in different scenarios of our daily lives. Existing recommender systems mainly focus on predicting the user’s future behaviors (e.g., rating, clicking, watching, and purchasing) items but ignore the interactions between the user and the recommender agent. Therefore, they usually generate un-satisfactory recommendation results and cause bad user experience. This motivates the development of interactive recommender systems (IRS) that encourage the interactions between the user and the recommender agent. In recent years, interactive recommender systems have attracted increasingly research attentions from both academia and industry. This workshop provides a forum for researchers and practitioners to share the new techniques and applications of interactive recommender systems, and discuss the future research directions. 
+The boom of generative models has paved the way for significant advances in recommender systems. For instance, pre-trained generative models offer unprecedented opportunities to improve recommender algorithms for user modeling. This workshop aims to provide a platform for researchers to actively explore and share innovative ideas on integrating generative models into recommender systems, mainly focusing on five key aspects: i) enhancing recommender algorithms, ii)generating personalized content in some scenarios such as micro-videos, iii) changes in the user-system interaction paradigm, iv) boosting trustworthiness checks, and v) evaluation methodologies of generative recommendation. With the rapid development of generative models, a growing number of studies along the above directions are emerging, revealing the timeliness and necessity of this workshop. The related research will bring novel features to recommender systems and contribute to new tasks and technologies in both academia and industry. In the long run, this research direction might revolutionize the traditional recommender paradigm and lead to the maturation of next-generation recommender systems. 
+
 
 ## Call for Papers
 
-This workshop welcomes submissions from both academia and industry researchers relevant to interactive recommender systems. Topics of interests include but are not limited to:
-- Bandit learning for interactive recommender systems
-- Deep reinforcement learning for interactive recommender systems
-- Conversational recommender systems
-- Multi-modal conversational recommender systems
-- Critiquing-based recommender systems
-- Human decision making in interactive recommender systems
-- Human-recommender interaction in recommender systems
-- Fairness in interactive recommender systems
-- Diversified interactive recommender systems
-- Explanatory interactive recommender systems
-- Knowledge-enhanced interactive recommender systems
-- Personalized interaction mechanism design
-- User simulation for interactive recommender systems
-- Methodology for evaluating interactive recommender systems
+This workshop aims to promote innovative research on integrating generative models with recommender systems, focusing on five key aspects: 
 
-Submissions must be in PDF, up to 8 pages long (plus unlimited pages for references), and shorter papers are also welcome. All manuscripts should be formatted according to the new ACM format published in ACM guidelines, selecting the generic “sigconf” sample. Papers can be submitted through easychair: https://easychair.org/my/conference?conf=irswsdm23.
+1) improving user modeling algorithms by generative models; 
+2) using generative models for diverse item content creation, to supplement human-generated content; 
+3) revolutionizing user interaction modes with recommender systems; 
+4) emphasizing trustworthiness in generative model-enhanced recommender models; and 
+5) designing evaluation methodologies for assessing recommender systems with generative models. 
 
-All submitted papers will be pear reviewed by the program committee. Accepted submissions will be presented at the workshop and published on the workshop’s website, but will not be archived. 
+The workshop will provide a valuable platform for researchers to share the latest ideas, advances, and breakthroughs in this rapidly evolving field. Prospective authors are invited to submit original research papers that address the related topics of interest. Submitted papers should not exceed 8 pages in length, including figures, tables, and references. Papers must be formatted according to the CIKM 2023 format and submission guidelines. 
 
 ## Important Dates
 
-- Paper Submission Deadline: 31 December 2022 (11:59 PM, AoE)
-- Acceptance Notification: 14 Jan 2023 (11:59 PM, AoE)
-- Workshop Date: 3 March 2023
+Paper Submissions Deadline: August 18, 2023 (11:59 PM, AoE)
+Acceptance Notification: September 15, 2023 (11:59 PM, AoE)
+Workshop Date: October 22, 2023
+
+## Workshop Organizers:
+
+Wenjie Wang, National University of Singapore
+Yong Liu, Huawei Noah's Ark Lab, Singapore
+Yang Zhang, University of Science and Technology of China
+Weiwen Liu, Huawei Noah's Ark Lab, China
+Fuli Feng, University of Science and Technology of China
+Aixin Sun, Nanyang Technological University
 
 ## Contact
 
-irs.wsdm23@gmail.com
+rgm.cikm23@gmail.com
+
 
 
