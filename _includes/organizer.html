@@ -8,14 +8,15 @@
         </div>
         
         <div class="row">
-            {% assign organizers = site.organizers | sort:"order" %}
-            {% for member in organizers limit:4 %}
+            {% assign organizers = site.organizers | sort:"order" | where: "row", 1 %}
+            {% for member in organizers %}
                 {% include organizer-member.html %}
             {% endfor %}
         </div>
 
         <div class="row">
-            {% for member in organizers offset:4 limit:3 %}
+            {% assign organizers = site.organizers | sort:"order" | where: "row", 2 %}
+            {% for member in organizers %}
                 {% include organizer-member.html %}
             {% endfor %}
         </div>
