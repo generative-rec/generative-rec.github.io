@@ -1,9 +1,9 @@
 ---
 name: Dr. Fuli Feng 
-position: Ph.D
+position: Professor
 organization: University of Science and Technology of China
-img: assets/img/user.jpg
-personal-page: https://github.com/
-order: 1
+img: assets/img/fengfuli.jpg
+personal-page: https://fulifeng.github.io/
+order: 0
 row: 2
 ---

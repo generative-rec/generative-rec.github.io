@@ -1,9 +1,9 @@
 ---
 name: Dr. Weiwen Liu
-position: Ph.D
+position: Researcher
 organization: Huawei Noah's Ark Lab, China
-img: assets/img/user.jpg
-personal-page: https://github.com/
-order: 0
-row: 2
+img: assets/img/liuweiwen.jpg
+personal-page: https://wwliu555.github.io/
+order: 3
+row: 1
 ---
