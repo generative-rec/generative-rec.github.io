@@ -6,13 +6,19 @@
                 <!--h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3-->
             </div>
         </div>
-        {% for row_idx in (1..2) %}
-            <div class="row">
-            {% assign organizers = site.organizers | sort:"order" | where: "row", row_idx %}
-            {% for member in organizers %}
+        
+        <div class="row">
+            {% assign organizers = site.organizers | sort:"order" %}
+            {% for member in organizers limit:4 %}
                 {% include organizer-member.html %}
             {% endfor %}
-            </div>
-        {% endfor %}
+        </div>
+
+        <div class="row">
+            {% for member in organizers offset:4 limit:3 %}
+                {% include organizer-member.html %}
+            {% endfor %}
+        </div>
+        
     </div>
 </section>
