@@ -1,6 +1,6 @@
 ---
-name: Dr. Yang Zhang
-position: Ph.D Student
+name: Mr. Yang Zhang
+position: Ph.D Candidate
 organization: University of Science and Technology of China
 img: assets/img/zhangyang.jpg
 personal-page: http://home.ustc.edu.cn/~zy2015/
