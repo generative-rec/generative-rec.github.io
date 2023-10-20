@@ -7,18 +7,11 @@
                 </div>
 
             </div>
-            <div class="row text-justify">
-              <div class="col-md-12">
-                <ul class="large text-muted">
-                  <li><b>To Be Announced!</b></li>
-                </ul>
-              </div>
-            </div>
-
-<!--            {% assign speakers = site.speakers | sort:"order" %}-->
-<!--            {% for member in speakers %}-->
-<!--                {% include speaker-member.html %}-->
-<!--            {% endfor %}-->
+            
+            {% assign speakers = site.speakers | sort:"order" %}
+            {% for member in speakers %}
+                {% include speaker-member.html %}
+            {% endfor %}
 
             
         </div>
