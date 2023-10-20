@@ -4,7 +4,7 @@ position: Technology Expert
 organization: Huawei Noah’s Ark Lab
 personal-page: https://RGM-CIKM23.github.io/
 order: 1
-img: assets/img/user.jpg
+img: assets/img/zhenhua-dong.jpg
 content-title: <nobr> 10 Challenges in Industiral Recommender Systems </nobr>
 
 content-speak: Huawei’s vision and mission is to build a fully connected intelligent world. Since 2013, Huawei Noah’s Ark Lab has helped many products to build recommender systems and search engines for getting the right information to the right users. Every day, our recommender systems serve hundreds of millions of mobile phone users and recommend different kinds of content and services such as apps, news feeds, songs, videos, books, themes, and instant services. The big data and various scenarios provide us with great opportunities to develop advanced recommendation technologies. Furthermore, we have witnessed the technical trend of recommendation models in the past ten years, from the shallow and simple models like collaborative filtering, linear model, low rank models to the deep and complex models like neural network, pre-trained language models. Based on the mission, opportunities and technological trends, we have also met several hard problems in our recommender systems. In this talk, we will share ten important and interesting challenges and hope that the RecSys community can get inspired and create better recommender systems.
