@@ -2,7 +2,7 @@
 name: Zhenhua Dong
 position: Technology Expert 
 organization: Huawei Noah’s Ark Lab
-personal-page: https://RGM-CIKM23.github.io/
+personal-page: https://scholar.google.com/citations?user=JeePtHEAAAAJ&hl=en
 order: 1
 img: assets/img/zhenhua-dong.jpg
 content-title: <nobr> 10 Challenges in Industiral Recommender Systems </nobr>
