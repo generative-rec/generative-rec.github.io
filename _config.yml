@@ -3,10 +3,10 @@ description: Cayman is a clean, responsive theme for GitHub Pages.
 show_downloads: false
 theme: jekyll-theme-cayman
 
-conference_name: The 1st Workshop on Recommendation with Generative Models
-conference_cikm: "on the 32nd ACM International Conference on Information and Knowledge Management (CIKM'23)"
-conference_venue: "Birmingham UK, Saturday 21 - Wednesday 25 October 2023"
-conference_intro: "Will be held in 2023"
+conference_name: The 2nd Workshop on Recommendation with Generative Models
+conference_cikm: "on the Web Conference 2024 (WWW'24)"
+conference_venue: "Singapore, Monday 13 - Friday 17 May 2024"
+conference_intro: "Will be held in 2024"
 
 github:
   zip_url: http://www.google.com
