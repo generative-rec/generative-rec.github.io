@@ -1,6 +1,6 @@
-# RGM-CIKM23.github.io
+# GENERATIVE-REC.github.io
 
-## Workshop Title: The 1st Workshop on Recommendation with Generative Models
+## Workshop Title: The 2nd Workshop on Recommendation with Generative Models
 
 
 ## Summary
