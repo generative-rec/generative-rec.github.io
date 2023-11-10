@@ -4,9 +4,12 @@ show_downloads: false
 theme: jekyll-theme-cayman
 
 conference_name: The 2nd Workshop on Recommendation with Generative Models
-conference_www: "on the Web Conference 2024 (WWW'24)"
-conference_venue: "Singapore, Monday 13 - Friday 17 May 2024"
-conference_intro: "Will be held in 2024"
+# conference_www: "on the Web Conference 2024 (WWW'24)"
+conference_www: "Venue: TBD"
+# conference_venue: "Singapore, Monday 13 - Friday 17 May 2024"
+conference_venue: "TBD"
+# conference_intro: "Will be held in 2024"
+conference_intro: "TBD"
 
 github:
   zip_url: http://www.google.com
